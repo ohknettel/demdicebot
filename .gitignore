@@ -1,0 +1,10 @@
+.venv
+src/.env
+
+logs/
+tests/
+
+**/__pycache__
+*.egg-info
+*.py[cdo]
+*.db
